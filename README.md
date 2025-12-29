@@ -15,20 +15,20 @@ The following are the procedures for downloading and training the models in this
 4. Run "pso_svr.py" by typing "python pso_svr.py" in cmd.
 
 ## Results
-|Model Parameters|Value
-|:---------------|----------------:
-|Best C          |1.35 (3 s.f.)
-|Best Epsilon    |0.010 (3 s.f.)
-|Best Gamma      |0.334 (3 s.f.)
+|Model Parameters        |Value
+|:-----------------------|----------------:
+|Best C                  |1.35 (3 s.f.)
+|Best Epsilon            |0.010 (3 s.f.)
+|Best Gamma              |0.334 (3 s.f.)
 
-|Performance Indicators|Value
-|:---------------------|----------------:
-|Total Parameters      |277
-|Total Memory (KB)     |101 (3 s.f.)
-|Best PSO Score        |0.00110 (3 s.f.)
-|RMSE                  |0.0252 (3 s.f.)
-|SMAPE                 |3.22 (3 s.f.)
-|MAPE                  |3.23 (3 s.f.)
+|Performance Indicators  |Value
+|:-----------------------|----------------:
+|Total Parameters        |277
+|Total Memory (KB)       |101 (3 s.f.)
+|Best PSO Score          |0.00110 (3 s.f.)
+|RMSE                    |0.0252 (3 s.f.)
+|SMAPE                   |3.22 (3 s.f.)
+|MAPE                    |3.23 (3 s.f.)
 
 ## Data Attribution
 This project uses modified data derived from “Machine Learning Materials Datasets” assembled by Vanessa Nilson under the guidance of Prof. Dane Morgan,
