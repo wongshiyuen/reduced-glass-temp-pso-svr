@@ -26,11 +26,11 @@ The following are the procedures for downloading and training the models in this
 ## Results
 The table below shows the best values for C, Epsilon, and Gamma based on optimization via PSO.
 |Model Parameters        |Value
-|:-----------------------|----------------:
-|Best C                  |1.35 (3 s.f.)
-|Best Epsilon            |0.010 (3 s.f.)
-|Best Gamma              |0.334 (3 s.f.)
-|Best PSO Score          |0.00110 (3 s.f.)
+|:-----------------------|--------------------:
+|Best C                  |1.3508376
+|Best Epsilon            |0.01
+|Best Gamma              |0.33374383
+|Best PSO Score          |0.001102160304627816
 
 |Performance Indicators  |Value
 |:-----------------------|----------------:
