@@ -7,11 +7,11 @@ Simple PSO-SVR model for estimating reduced glass temperature of different alloy
 |Metallic_Glass_Forming_with_features2.xlsx |Excel    |Columns added for each alloy constituent in original Excel data file along with corresponding percentage values. More details in "Data Attribution" section.
 |pso_svr.py                                 |PY       |Contains code for training PSO-SVR model
 
-## Requirements
+## Requirements (Model Training)
 * Python ≥ 3.9 (tested with version 3.11.9)
 * pandas ≥ 1.5.0 (tested with version 2.3.1)
 * numpy ≥ 1.17.3 (tested with version 2.1.3)
-* scikit‑learn ≥ 0.24.0 (tested with version 1.7.1)
+* scikit‑learn ≥ 0.24.0 (tested with version 1.5.0)
 * pyswarm ≥ 0.6 (tested with version 0.6)
 * openpyxl ≥ 3.1.0 (tested with version 3.1.5)
 
